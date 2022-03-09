@@ -1,10 +1,16 @@
 ---
 layout: home
 ---
-# About Theme
+# 关于扫地机
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+它们收集两种类型的灰尘，你可以用右上角的图标来选择更适合你的那种。
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+左边是文本，右边是图像
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+它们附有tag来确保你不要过敏
+
+***sniff***
+
+如果你想回来，点击左上角的logo
+
+玩得愉快
