@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: gallery
 ---
 # 关于扫地机
 
