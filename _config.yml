@@ -66,4 +66,4 @@ exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, 
 
 # Collection
 collections:
-- Gallery
+- gallery
