@@ -5,8 +5,7 @@ layout: compress
 <html>
 {% include head.html %}
 <body id="gallery">
-  
-    <div class="overlay">
+  <div class="gallery">
       <ul class="projects-menu">
         {% for item in site.data.projects %}
         {% capture image %}{{ item.image }}{% endcapture %}
@@ -26,13 +25,5 @@ layout: compress
         {% endfor %}
       </ul>
     </div>
-
-    <div class="block-right">
-      <a title="projects" class="projects-menu-icon">
-        <span></span>
-      </a>
-    </div>
-    {% include overlay.html %}
-    {% include scripts.html %}
   </body>
 </html>
