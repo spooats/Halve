@@ -29,11 +29,11 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
-#twitter:            username
-#facebook:           username
-#github:             username
+email:            
+google.plus:        
+twitter:            
+facebook:           
+github:             
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
