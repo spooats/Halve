@@ -1,3 +1,13 @@
+---
+layout: post
+title: "只是咬一口的话"
+excerpt_separator: <!--more-->
+categories:
+  - Write
+tags:
+  - nmmn
+  - kyus
+---
 ## 猫牛｜只是咬一口的话
 
 >牛单身
